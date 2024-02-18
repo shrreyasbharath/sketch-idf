@@ -1,0 +1,11 @@
+body{
+    background-color:burlywood;
+}
+
+#score{
+    float: left;
+}
+
+#timer_counter{
+    float: right;
+}
